@@ -1,2 +1,3 @@
 # Goose-Iscool
-Is cool?
+Hello I'm working on stuff so yeah
+
